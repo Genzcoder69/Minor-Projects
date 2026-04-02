@@ -1,12 +1,10 @@
 # 🚀 Minor Projects
-
 Welcome to my Minor Projects repository! This repo contains small projects
 built while learning programming in Python and C++.
 
 ---
 
 ## 🐍 Python Projects
-
 | Project | Description |
 |---|---|
 | [Guess The Number Game](Python/Guess-The-Number-Game/) | Guess the random number picked by the computer |
@@ -14,11 +12,13 @@ built while learning programming in Python and C++.
 | [Coffee Store](Python/Coffee-Store/) | A simple coffee store ordering system |
 | [QR Code Generator](Python/QR-Code-Generator/) | Generates a QR code for your GitHub profile |
 | [Project Robo](Python/Project-Robo/) | A Python music assistant project |
+| [Alarm Clock](Python/Alarm-Clock/) | A terminal-based alarm clock with live countdown |
+| [House Rent Calculator](Python/House-Rent-Calculator/) | Splits house rent equally among all tenants |
+| [To Do List](Python/To-Do-List/) | A terminal-based task manager with file storage |
 
 ---
 
 ## 💻 C++ Projects
-
 | Project | Description |
 |---|---|
 | [Library Management System](C++/Library-Management/) | Manage books in a library |
